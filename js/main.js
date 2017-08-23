@@ -154,7 +154,7 @@
             })
             $('.pro-ewm-2').on(touchstart,function (e) {
                e.stopPropagation();
-				location.href = 'http://test.trando.com.cn/xiaojiu/Valentin_Day/'
+				location.href = 'http://xiaojiu.date/Valentin_Day/'
             })
         })
 
